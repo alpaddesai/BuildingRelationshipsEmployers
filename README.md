@@ -2,6 +2,6 @@
 
 ![image](BuildingrelationshipsCoworkers.jpeg)
 
-![image](DirectManager.jpeg)
+![image](DirectManager.jpg)
 
 ![image](SeniorManagement.jpeg)
