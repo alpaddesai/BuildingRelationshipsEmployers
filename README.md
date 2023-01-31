@@ -1,6 +1,6 @@
 # Building Relationships Employers
 
-![image](BuildingrelationshipsCoworkers.jpeg)
+![image](BuildingrelationshipsCoworkers.jpg)
 
 ![image](DirectManager.jpg)
 
