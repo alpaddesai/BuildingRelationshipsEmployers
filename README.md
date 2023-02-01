@@ -10,4 +10,6 @@
 
 ![image](CompanyWideTeamBuildingEvents.jpg)
 
+![image](ConversationsDuringLunch.jpg)
+
 Additional details reference https://github.com/alpaddesai/LifeStyle
