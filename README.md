@@ -12,6 +12,6 @@
 
 ![image](ConversationsDuringLunch.jpg)
 
-![image]
+![image](NonRemoteOfficeHoursStamina.jpg)
 
 Additional details reference https://github.com/alpaddesai/LifeStyle
