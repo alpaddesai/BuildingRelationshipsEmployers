@@ -14,4 +14,6 @@
 
 ![image](NonRemoteOfficeHoursStamina.jpg)
 
+![image](WorkingRemotely.jpg)
+
 Additional details reference https://github.com/alpaddesai/LifeStyle
