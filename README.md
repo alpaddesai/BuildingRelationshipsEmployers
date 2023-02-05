@@ -16,6 +16,8 @@
 
 ![image](WorkingRemotely.jpg)
 
+![image](EarningSalary.jpg)
+
 ![image](EthicsandExcellence.png)
 
 ![image](USCopyrightCertificate.png)
