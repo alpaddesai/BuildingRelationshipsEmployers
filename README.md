@@ -18,6 +18,8 @@
 
 ![image](EarningSalary.jpg)
 
+![image](GeneratingRevenue.jpg)
+
 ![image](EthicsandExcellence.png)
 
 ![image](USCopyrightCertificate.png)
