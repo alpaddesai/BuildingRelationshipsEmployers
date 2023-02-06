@@ -6,6 +6,8 @@
 
 ![image](SeniorManagement.jpeg)
 
+![image](PaidInternships.jpg)
+
 ![image](WorkEthic.jpg)
 
 ![image](CompanyWideTeamBuildingEvents.jpg)
