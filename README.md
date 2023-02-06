@@ -6,6 +6,8 @@
 
 ![image](SeniorManagement.jpeg)
 
+![image](AcademicProject.jpg)
+
 ![image](PaidInternships.jpg)
 
 ![image](WorkEthic.jpg)
