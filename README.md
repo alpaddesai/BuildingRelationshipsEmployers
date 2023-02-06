@@ -18,6 +18,8 @@
 
 ![image](NonRemoteOfficeHoursStamina.jpg)
 
+![image](References_Recommendations.png)
+
 ![image](WorkingRemotely.jpg)
 
 ![image](EarningSalary.jpg)
